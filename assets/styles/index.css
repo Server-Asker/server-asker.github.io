@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('../fonts/EthnocentricRg-Regular.ttf'),
+        url('../fonts/EthnocentricRg-Regular.eot'),
+        url('../fonts/EthnocentricRg-Regular.woff'),
+        url('../fonts/EthnocentricRg-Regular.woof2')
+}
+
 body {
     font-family: "Raleway", sans-serif
 }
