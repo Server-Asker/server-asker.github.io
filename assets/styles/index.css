@@ -11,7 +11,8 @@ body {
 }
 
 body h1 {
-    font-family: "Ethnocentric", sans-serif
+    font-family: "Ethnocentric", sans-serif;
+    text-align: center;
 }
 
 body,
